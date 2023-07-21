@@ -54,11 +54,14 @@ If someone is interested or want to use these sprites for his own projects it's 
 
 - Changed entire Title screen Pokémon list. Now each game will have three starters, the first one depending on which game you're playing as it always was plus his evos (Charmander evolution line for Red, Bulbasaur evolution line for Green and Squirtle evolution line for Blue). Then FakeMime sprite and a list of different Pokémon I really like to play distributed per game to make each rom Title screen more unique.
 - Some sprites were changed to suit my taste: Gastly uses RG sprite, Gengar default sprite uses RG one and the alternative SW97, Golbat default sprite uses RB one and the alternative SW97, Exeggcute alternative sprite uses RG one & Exeggutor default sprite uses RG one and the alternative SW97. The front sprites options pages were updated to follow the new format and avoid confusion, so it's pretty clear.
-- Grimer Base Special was raised to 50 and Muk Base Special to 100 in order to match GSC version. Now Muk it's more bulky and hard to deal with, specially with Trainer EXP activated.
+- Grimer Base Special was raised to 50 and Muk Base Special to 95. Now Muk it's more bulky and hard to deal with, specially with Trainer EXP activated.
 - All three starters final evo were revamped to dual Dragon type in addition to their main types: Now Venusaur it's Grass/Dragon, Blastoise Water/Dragon and Charizard Fire/Dragon to make them more unique and valuable. Dragon Rage and Egg Bomb are Dragon moves in PureRGB so both were added to their learnsets following level up format of similar learnsets.
 - Krabby and Kingler are now Water/Normal types. Crabhammer it's their signature, exclusive move and Ground moves prior to PureRGB were replaced by Normal ones following vanilla criteria. Is still weak to Electric moves but it has now different strategies and powerful Normal STAB moves.
 - Added a splash of Physical Special Split for Crabhammer (now a Physical Water move) and Night Shade (now a Special Ghost type move already revamped in PureRGB, even more useful on this fork).
 - Gastly, Haunter and Gengar are now Ghost/Normal types. The only poison move he can learn aside from Toxic, Filthy Slam, was replaced by Wrap to gain trapping strategies. Is still fragile but not as it was due to original Poison dual type.
+- Poliwrath was revamped: HP, Attack and Defense base values were increased to 100. Also front and back sprite (Gen I) were replaced using **Helix Chamber** reconstructions based on Nyosuka Poliwrath Prototype from Green Beta (thanks to **catstorm26** & **RacieBeep**). SW97 back sprite was made by me using Poliwrath's one as base with some tweaks and modifications to maintain accuracy and loyalty to design.
+
+![NyosukaFrontRB](/gfx/pokemon/front/poliwrath.png?raw=true) ![NyosukaBackSpriteGenI](/gfx/pokemon/back/poliwrathb.png?raw=true) ![NyosukaBackSpriteSW97](/gfx/pokemon/back_sw/poliwrathb.png?raw=true)
 
 ## Additional data
 
