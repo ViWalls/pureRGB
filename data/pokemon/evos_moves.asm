@@ -542,10 +542,12 @@ GyaradosEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 20, BITE
+	db 20, FURY_ATTACK
 	db 25, DRAGON_RAGE
 	db 32, BODY_SLAM
+	db 38, RAZOR_WIND ; ROOST
 	db 41, HYDRO_PUMP
+	db 48, WHIRLWIND
 	db 52, HYPER_BEAM
 	db 0
 
