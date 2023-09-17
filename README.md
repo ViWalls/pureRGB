@@ -64,6 +64,9 @@ If someone is interested or want to use these sprites for his own projects it's 
 
 ![NyosukaFrontRB](/gfx/pokemon/front/poliwrath.png?raw=true) ![NyosukaBackSpriteGenI](/gfx/pokemon/back/poliwrathb.png?raw=true) ![NyosukaBackSpriteSW97](/gfx/pokemon/back_sw/poliwrathb.png?raw=true)
 
+- Gyarados revamp: replaced Bite for Fury Attack, added Roost and Whirlwind (similar to Hurricane on PureRGB) to its learnset. Added Roost and Fly to TM/HM learnset.
+- Armored Mewtwo base stats reverted to vanilla Mewtwo base stats. Now both are identical and it's only a visual sprite change.
+
 ## Additional data
 
 **One Picture Worth Ten Thousand Words**
