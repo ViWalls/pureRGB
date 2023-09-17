@@ -85,6 +85,8 @@ If someone is interested or want to use these sprites for his own projects it's 
 
 **pret discord** and **pret** in general for their original disassembly work on Red / Blue.
 
+**Smogon University** - the cornerstone of competitive pkmn.
+
 **ZoomTen** - share some knowledge about coding plus helping to prevent ROM bank overflow amongst other things like resolve conflicts to track PureRGB updates. Also priceless support that made FakeMime a thing.
 
 **metalflygon08** - providing SW97 back sprite of fake Mr. Mime.
@@ -94,3 +96,5 @@ If someone is interested or want to use these sprites for his own projects it's 
 **Blazer** - providing back sprites for Squirtle Squad and encourage me to finish Squirtle Squad.
 
 **Plague von Karma** & **Martha, the Programmer Girl** - inspiration plus a shitload of things related to Kanto Expansion Pak development.
+
+**Lilyhollow** - some reference following Violet Version Showdown mod. Even if I'm not following the same criteria and changes, I think it's a great point to start cultivating ideas for revamping trashy pkmn.
