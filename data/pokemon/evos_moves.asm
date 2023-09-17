@@ -891,10 +891,11 @@ ArbokEvosMoves:
 	db 22, MEGA_DRAIN
 	db 26, SLAM ; FILTHY SLAM
 	db 30, WITHDRAW
-	db 36, LEECH_LIFE
+	db 36, DRAGON_RAGE
 	db 43, SUPER_FANG
 	db 50, SKULL_BASH
-	db 54, HAZE
+	db 54, EGG_BOMB
+	db 60, HAZE
 	db 0
 
 ParasectEvosMoves:
