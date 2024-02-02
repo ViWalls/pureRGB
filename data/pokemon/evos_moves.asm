@@ -640,8 +640,7 @@ BlastoiseEvosMoves:
 	db 34, COUNTER ; DRAIN PUNCH
 	db 39, SKULL_BASH
 	db 45, HYDRO_PUMP
-	db 49, DRAGON_RAGE
-	db 54, EGG_BOMB
+	db 49, EXPLOSION
 	db 0
 
 PinsirEvosMoves:
@@ -2340,9 +2339,8 @@ VenusaurEvosMoves:
 	db 30, RAZOR_LEAF
 	db 36, SLEEP_POWDER
 	db 40, GROWTH
-	db 46, DRAGON_RAGE
+	db 46, EARTHQUAKE
 	db 50, SOLARBEAM
-	db 56, EGG_BOMB
 	db 0
 
 TentacruelEvosMoves:
@@ -2783,7 +2781,7 @@ BellsproutEvosMoves:
 	db 29, SLAM ; FILTHY SLAM
 	db 35, RAZOR_LEAF
 	db 42, VICEGRIP
-	db 48, EGG_BOMB
+	db 48, SLUDGE
 	db 54, SELFDESTRUCT
 	db 58, GROWTH
 	db 0
@@ -2801,7 +2799,7 @@ WeepinbellEvosMoves:
 	db 29, SLAM ; FILTHY SLAM
 	db 35, RAZOR_LEAF
 	db 42, VICEGRIP
-	db 48, EGG_BOMB
+	db 48, SLUDGE
 	db 54, SELFDESTRUCT
 	db 58, GROWTH
 	db 0
@@ -2818,7 +2816,7 @@ VictreebelEvosMoves:
 	db 29, SLAM ; FILTHY SLAM
 	db 35, RAZOR_LEAF
 	db 42, VICEGRIP
-	db 48, EGG_BOMB
+	db 48, SLUDGE
 	db 54, SELFDESTRUCT
 	db 58, GROWTH
 	db 0
