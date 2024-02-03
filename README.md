@@ -55,17 +55,20 @@ If someone is interested or want to use these sprites for his own projects it's 
 - Changed entire Title screen Pokémon list. Now each game will have three starters, the first one depending on which game you're playing as it always was plus his evos (Bulbasaur evolution line for Green, Charmander evolution line for Red and Squirtle evolution line for Blue). Then FakeMime sprite and a list of different Pokémon I really like to play distributed per game to make each rom Title screen more unique.
 - Some sprites were changed to suit my taste: Gastly uses RG sprite, Gengar default sprite uses RG one and the alternative SW97, Golbat default sprite uses RB one and the alternative SW97, Exeggcute alternative sprite uses RG one & Exeggutor default sprite uses RG one and the alternative SW97. The front sprites options pages were updated to follow the new format and avoid confusion, so it's pretty clear.
 - Grimer Base Special was raised to 50 and Muk Base Special to 95. Now Muk it's more bulky and hard to deal with, specially with Trainer EXP activated.
-- All three starters final evo were revamped to dual Dragon type in addition to their main types: Now Venusaur it's Grass/Dragon, Charizard Fire/Dragon and Blastoise Water/Dragon to make them more unique and valuable. Dragon Rage and Egg Bomb are Dragon moves in PureRGB so both were added to their learnsets following level up format of similar learnsets.
+- All three starters final evo were revamped in addition to their main types: Now Venusaur it's Grass/Ground, Charizard Fire/Dragon and Blastoise Water/Rock to make them more unique. Also the learnsets were slightly tweaked to match the new dual typings: Venusaur learns Earthquake by level up, Charizard gets Dragon Rage (level up/TM) and Egg Bomb (level up), finally Blastoise gets Explosion by level up plus Rock Slide using a TM. Those moves were revamped in PureRGB so they will get STAB thanks to new types.
 - Also Arbok was revamped to dual Poison/Dragon type. Attack base was increased to 105 and Special base to 95, plus added Dragon Rage and Egg Bomb to its learnset.
-- Krabby and Kingler are now Water/Normal types. Crabhammer it's their signature, exclusive move and Ground moves prior to PureRGB were replaced by Normal ones following vanilla criteria. Is still weak to Electric moves but it has now different strategies and powerful Normal STAB moves.
+- Krabby/Kingler are now Water/Normal types. Crabhammer it's their signature, exclusive move and Ground moves prior to PureRGB were replaced by Normal ones following vanilla criteria. Is still weak to Electric moves but it has now different strategies and powerful Normal STAB moves.
 - Added a splash of Physical Special Split for Crabhammer (now a Physical Water move) and Night Shade (now a Special Ghost type move already revamped in PureRGB, even more useful on this fork).
-- Gastly, Haunter and Gengar are now Ghost/Normal types. The only poison move he can learn aside from Toxic, Filthy Slam, was replaced by Wrap to gain trapping strategies. Is still fragile but not as it was due to original Poison dual type.
+- Gastly/Haunter/Gengar are now Ghost/Normal types. The only poison move he can learn aside from Toxic, Filthy Slam, was replaced with Wrap to gain trapping strategies. Is still fragile but not as it was due to original Poison dual type.
 - Poliwrath was revamped: HP, Attack and Defense base values were increased to 100. Also front and back sprite (Gen I) were replaced using **Helix Chamber** reconstructions based on Nyosuka Poliwrath Prototype from Green Beta (thanks to **catstorm26** & **RacieBeep**). SW97 back sprite was made by me using Poliwrath's one as base with some tweaks and modifications to maintain accuracy and loyalty to design.
 
 ![NyosukaFrontRB](/gfx/pokemon/front/poliwrath.png?raw=true) ![NyosukaBackSpriteGenI](/gfx/pokemon/back/poliwrathb.png?raw=true) ![NyosukaBackSpriteSW97](/gfx/pokemon/back_sw/poliwrathb.png?raw=true)
 
-- Gyarados revamp: replaced Bite for Fury Attack, added Roost and Whirlwind (similar to Hurricane on PureRGB) to its learnset. Added Roost and Fly to TM/HM learnset.
+- Gyarados revamp: replaced Bite with Fury Attack, added Roost and Whirlwind (similar to Hurricane on PureRGB) to its learnset. Added Roost and Fly to TM/HM learnset.
 - Armored Mewtwo base stats reverted to vanilla Mewtwo base stats. Now both are identical and it's only a visual sprite change.
+- Victreebel was reverted to vanilla Grass/Poison type. Egg Bomb was removed from Bellsprout/Weepinbell/Victreebel learnset and replaced with Sludge, also Dragon Rage was removed from Victreebel TM learnset.
+- Pinsir now uses Tricules sprites from SW97. In addition the alternate sprite you can toggle in options was updated using **SourApple** desing for Gold & Silver 97: Reforged, with some modifications in shading to match the style of the original front in demo. The Gen I style back sprite was made by **Albatross** and used in Kanto Expansion Pak. The reason behind this choice it's I wanted to have Tricules here, but Pinsir was revamped in PureRGB with an interesting dual typing and it was difficult to find the perfect spot for it. Also I wanted to maintain the original 151 number and improve the existing ones instead of going crazy.
+- Lickitung base stats were improved: 110 HP, 85 Attack, 95 Defense, 50 Speed and 80 Special (based on Lickilicky from Kanto Expansion Pak). Because I'm not a huge fan of Lickitung design I replaced all the sprite with Lickilicky ones: the front sprite and Gen I style back sprite were made by **Albatross** (both used in Kanto Expansion Pak). Finally the Gen II style back sprite for SW97 mode was made by **Blue Emerald**.
 
 ## Additional data
 
@@ -99,6 +102,12 @@ If someone is interested or want to use these sprites for his own projects it's 
 
 **Blazer** - providing back sprites for Squirtle Squad and encourage me to finish Squirtle Squad.
 
-**Plague von Karma** & **Martha, the Programmer Girl** - inspiration plus a shitload of things related to Kanto Expansion Pak development.
+**Plague von Karma** & **Martha, the Programmer Girl** - inspiration, a shitload of things related to Kanto Expansion Pak development and valuable feedback to enhance certain pkmn.
 
 **Lilyhollow** - some reference following Violet Version Showdown mod. Even if I'm not following the same criteria and changes, I think it's a great point to start cultivating ideas for revamping trashy pkmn.
+
+**Albatross** - Gen I style Tricules back sprite and Lickilicky front sprite.
+
+**SourApple** - Gen II style Tricules alternative front sprite.
+
+**Blue Emerald** - Gen II style Lickilicky back sprite.
