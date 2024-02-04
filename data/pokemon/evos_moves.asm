@@ -1485,6 +1485,7 @@ HorseaEvosMoves:
 	db 39, DOUBLE_TEAM
 	db 44, DRAGON_RAGE
 	db 49, HYDRO_PUMP
+	db 54, EGG_BOMB
 	db 0
 
 SeadraEvosMoves:
@@ -1501,6 +1502,7 @@ SeadraEvosMoves:
 	db 39, DOUBLE_TEAM
 	db 44, DRAGON_RAGE
 	db 49, HYDRO_PUMP
+	db 54, EGG_BOMB
 	db 0
 
 MissingNo5EEvosMoves:
