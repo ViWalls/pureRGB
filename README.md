@@ -43,7 +43,7 @@ This is an enhancement of Pokemon Red/Blue/Green. The goal is to enhance the ori
 
 Pictured: Title Screen (Red OG) Front Sprite (SGB), Pokedex Data (SGB), Back Sprite Gen I (SGB), Back Sprite SW97 (Red OG).
 
-If someone is interested or want to use these sprites for his own projects it's ok. You have the version of **metalflygon08** who provided the back sprite but made some changes from original fake design OR the one I made using the previous one as base, where I reverted those minor changes loyal to original art and extended the footprint one pixel long, matching my perception of its foot anatomy.
+If someone is interested or want to use these sprites for his own projects it's fine. You have the version of **metalflygon08** who provided the back sprite but made some changes from original fake design OR the one I made using the previous one as base, where I reverted those minor changes loyal to original art and extended the footprint one pixel long, matching my perception of its foot anatomy.
 
 ![FakeMimebymetalflygon08](/screenshots/FakeMimebymetalflygon08.png?raw=true) ![FakeMimebyViWalls](/screenshots/FakeMimebyViWalls.png?raw=true) ![FakeMimeSprite](/gfx/pokemon/front/mr.mime.png?raw=true) ![FakeMimeBackSpriteGenI](/gfx/pokemon/back/mr.mimeb.png?raw=true) ![FakeMimeBackSpriteSW97](/gfx/pokemon/back_sw/mr.mimeb.png?raw=true)
 
@@ -67,6 +67,7 @@ If someone is interested or want to use these sprites for his own projects it's 
 - Arbok was revamped to dual Poison/Dragon type: Attack base increased to 105 and Special base to 95, plus Egg Bomb was added to its learnset. It can learn Dragon Rage using a TM.
 - Armored Mewtwo base stats reverted to vanilla Mewtwo base stats. Now both are identical and it's only a visual sprite change but still worth the effort.
 - Victreebel was reverted to vanilla Grass/Poison type. Egg Bomb was removed from Bellsprout/Weepinbell/Victreebel learnset and replaced with Sludge, also Dragon Rage was removed from Victreebel TM learnset.
+- Horsea/Seadra now learn Egg Bomb at level 54.
 - Pinsir now uses Tricules sprites from SW97. In addition the alternate sprite you can toggle in options was updated using **SourApple** desing for Gold & Silver 97: Reforged, with some modifications in shading to match the style of the original front in demo. The Gen I style back sprite was made by **Albatross** and used in Kanto Expansion Pak. The reason behind this choice it's I wanted to have Tricules here, but Pinsir was revamped in PureRGB with an interesting dual typing and it was difficult to find the perfect spot for it. Also I wanted to maintain the original 151 number and improve the existing ones instead of going crazy.
 - Lickitung base stats were improved: 110 HP, 85 Attack, 95 Defense, 50 Speed and 80 Special (based on Lickilicky from Kanto Expansion Pak). Because I'm not a huge fan of Lickitung design I replaced all the sprites with Lickilicky ones: the front sprite and Gen I style back sprite were made by **Albatross** (both used in Kanto Expansion Pak). Finally the Gen II style back sprite for SW97 mode was made by **Blue Emerald**.
 
