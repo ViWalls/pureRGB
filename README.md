@@ -35,7 +35,7 @@ This is an enhancement of Pokemon Red/Blue/Green. The goal is to enhance the ori
 
 ## Fork changes
 
-- The front sprite of Mr. Mime was replaced by Fake Beta Mr. Mime that was [debunked by Dr. Lava](https://twitter.com/DrLavaYT/status/1284462794532773888?s=20), sprite included with other some accurate recreations of real Beta Pokémon of Gen I by unknown artist.
+- The front sprite of Mr. Mime was replaced by Fake Beta Mr. Mime that was [debunked by Dr. Lava](https://twitter.com/DrLavaYT/status/1284462794532773888?s=20), sprite included with [other accurate recreations of real Beta Pokémon of Gen I by unknown artist](https://github.com/ViWalls/pureRGB-FakeMime/blob/master/screenshots/RedBlueBetaPokemon.png).
 - The back sprite of Mr. Mime was replaced by a custom one provided by **metalflygon08** for SW97. I only changed the light reflection in the back because the original felt flat for my tastes in a sphere head. The one in Gen I style it's made by me but based in the SW97/Gen II previously provided to match the same design.
 - Why I do this small change? Because I have despised Mr. Mime original design all my life. It never was a solid playable Pokémon neither due to its ridiculous HP and Defense values. On PureRGB it was overhauled and improved with an amazing Psychic/Ghost dual type making it an unique choice for your team, but his appearance was still annoying me. Plus I always wanted to first contact Github with a simple task and navigate through his interface aside from build something considering the time I spend following projects here. You should play original PureRGB unless you hate Mr. Mime as much as I do.
 
@@ -70,12 +70,6 @@ If someone is interested or want to use these sprites for his own projects it's 
 - Horsea/Seadra now learn Egg Bomb at level 54.
 - Pinsir now uses Tricules sprites from SW97. In addition the alternate sprite you can toggle in options was updated using **SourApple** desing for Gold & Silver 97: Reforged, with some modifications in shading to match the style of the original front in demo. The Gen I style back sprite was made by **Albatross** and used in Kanto Expansion Pak. The reason behind this choice it's I wanted to have Tricules here, but Pinsir was revamped in PureRGB with an interesting dual typing and it was difficult to find the perfect spot for it. Also I wanted to maintain the original 151 number and improve the existing ones instead of going crazy.
 - Lickitung base stats were improved: 110 HP, 85 Attack, 95 Defense, 50 Speed and 80 Special (based on Lickilicky from Kanto Expansion Pak). Because I'm not a huge fan of Lickitung design I replaced all the sprites with Lickilicky ones: the front sprite and Gen I style back sprite were made by **Albatross** (both used in Kanto Expansion Pak). Finally the Gen II style back sprite for SW97 mode was made by **Blue Emerald**.
-
-## Additional data
-
-**One Picture Worth Ten Thousand Words**
-
-![RedBlueBetaPokemon](/screenshots/RedBlueBetaPokemon.png?raw=true)
 
 ## Credits
 
