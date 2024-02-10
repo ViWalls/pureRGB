@@ -56,8 +56,6 @@ ClefairyPicFront::     INCBIN "gfx/pokemon/front/clefairy.pic"
 ClefairyPicBackSW::    INCBIN "gfx/pokemon/back_sw/clefairyb.pic"
 KakunaPicFront::       INCBIN "gfx/pokemon/front/kakuna.pic"
 KakunaPicBackSW::      INCBIN "gfx/pokemon/back_sw/kakunab.pic"
-LickitungPicFront::    INCBIN "gfx/pokemon/front/lickitung.pic"
-LickitungPicBackSW::   INCBIN "gfx/pokemon/back_sw/lickitungb.pic"
 
 SECTION "Pics 2", ROMX, BANK[PICS_2]
 
@@ -578,6 +576,8 @@ ArmoredMewtwoBack::    INCBIN "gfx/pokemon/back/armored_mewtwob.pic"
 LickitungPicBack::     INCBIN "gfx/pokemon/back/lickitungb.pic"
 PinsirPicFrontAlt::   INCBIN "gfx/pokemon/front_alt/pinsir.pic"
 PinsirPicBack::       INCBIN "gfx/pokemon/back/pinsirb.pic"
+LickitungPicFront::    INCBIN "gfx/pokemon/front/lickitung.pic"
+LickitungPicBackSW::   INCBIN "gfx/pokemon/back_sw/lickitungb.pic"
 
 KoffingPicFront::     INCBIN "gfx/pokemon/front/koffing.pic"
 KoffingPicBackSW::    INCBIN "gfx/pokemon/back_sw/koffingb.pic"
