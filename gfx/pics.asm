@@ -154,8 +154,6 @@ DewgongPicFront::      INCBIN "gfx/pokemon/front/dewgong.pic"
 DewgongPicBackSW::     INCBIN "gfx/pokemon/back_sw/dewgongb.pic"
 ZubatPicFront::       INCBIN "gfx/pokemon/front/zubat.pic"
 ZubatPicBackSW::      INCBIN "gfx/pokemon/back_sw/zubatb.pic"
-PinsirPicFront::      INCBIN "gfx/pokemon/front/pinsir.pic"
-PinsirPicBackSW::     INCBIN "gfx/pokemon/back_sw/pinsirb.pic"
 
 SECTION "Pics 4", ROMX, BANK[PICS_4]
 
@@ -574,14 +572,16 @@ GloomPicBack::         INCBIN "gfx/pokemon/back/gloomb.pic"
 VileplumePicBack::     INCBIN "gfx/pokemon/back/vileplumeb.pic"
 ArmoredMewtwoBack::    INCBIN "gfx/pokemon/back/armored_mewtwob.pic"
 LickitungPicBack::     INCBIN "gfx/pokemon/back/lickitungb.pic"
-PinsirPicFrontAlt::   INCBIN "gfx/pokemon/front_alt/pinsir.pic"
 PinsirPicBack::       INCBIN "gfx/pokemon/back/pinsirb.pic"
-LickitungPicFront::    INCBIN "gfx/pokemon/front/lickitung.pic"
-LickitungPicBackSW::   INCBIN "gfx/pokemon/back_sw/lickitungb.pic"
 
 KoffingPicFront::     INCBIN "gfx/pokemon/front/koffing.pic"
 KoffingPicBackSW::    INCBIN "gfx/pokemon/back_sw/koffingb.pic"
 KoffingPicFrontAlt::  INCBIN "gfx/pokemon/front_alt/koffing.pic"
+LickitungPicFront::    INCBIN "gfx/pokemon/front/lickitung.pic"
+LickitungPicBackSW::   INCBIN "gfx/pokemon/back_sw/lickitungb.pic"
+PinsirPicFront::      INCBIN "gfx/pokemon/front/pinsir.pic"
+PinsirPicBackSW::     INCBIN "gfx/pokemon/back_sw/pinsirb.pic"
+PinsirPicFrontAlt::   INCBIN "gfx/pokemon/front_alt/pinsir.pic"
 
 ArmoredMewtwoPicFront:: INCBIN "gfx/pokemon/front/armored_mewtwo.pic"
 ArmoredMewtwoPicBackSW:: INCBIN "gfx/pokemon/back_sw/armored_mewtwob.pic"
