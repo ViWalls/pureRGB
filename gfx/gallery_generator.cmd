@@ -42,13 +42,13 @@ magick row1.png row2.png row3.png row4.png row5.png row6.png row7.png row8.png r
 del row1.png row2.png row3.png row4.png row5.png row6.png row7.png row8.png row9.png
 
 cd front_alt
-magick bulbasaur.png squirtle.png blastoise.png butterfree.png raticate.png pidgeotto.png pidgeot.png nidorino.png golbat.png mankey.png arcanine.png abra.png kadabra.png machop.png +append ../row1.png
+magick bulbasaur.png squirtle.png blastoise.png butterfree.png pidgeotto.png pidgeot.png raticate.png nidorino.png golbat.png mankey.png arcanine.png abra.png kadabra.png machop.png +append ../row1.png
 magick tentacruel.png graveler.png cloyster.png gengar.png onix.png voltorb.png exeggcute.png exeggutor.png koffing.png starmie.png pinsir.png electabuzz.png zapdos.png mewtwo.png +append ../row2.png
 cd ..
 magick row1.png row2.png -append gallery/alt_front_sprites.png
 del row1.png row2.png
 
-magick front/bulbasaur.png front_alt/bulbasaur.png front/squirtle.png front_alt/squirtle.png front/blastoise.png front_alt/blastoise.png front/butterfree.png front_alt/butterfree.png front/raticate.png front_alt/raticate.png front/pidgeotto.png front_alt/pidgeotto.png front/pidgeot.png front_alt/pidgeot.png front/nidorino.png front_alt/nidorino.png front/golbat.png front_alt/golbat.png +append row1.png
+magick front/bulbasaur.png front_alt/bulbasaur.png front/squirtle.png front_alt/squirtle.png front/blastoise.png front_alt/blastoise.png front/butterfree.png front_alt/butterfree.png front/pidgeotto.png front_alt/pidgeotto.png front/pidgeot.png front_alt/pidgeot.png front/raticate.png front_alt/raticate.png front/nidorino.png front_alt/nidorino.png front/golbat.png front_alt/golbat.png +append row1.png
 
 magick front/mankey.png front_alt/mankey.png front/arcanine.png front_alt/arcanine.png front/abra.png front_alt/abra.png front/kadabra.png front_alt/kadabra.png front/machop.png front_alt/machop.png front/tentacruel.png front_alt/tentacruel.png front/graveler.png front_alt/graveler.png front/cloyster.png front_alt/cloyster.png front/gengar.png front_alt/gengar.png front/onix.png front_alt/onix.png +append row2.png
 
